@@ -92,6 +92,35 @@ en: &DEFAULT_EN
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
 
+  schools:
+    section: schools
+    title: "Teaching Experience"
+    text: "I have been teaching higher education since 2018. My first role was as an instructor at UC Berkeley. Since then, I've had the honor of teaching data analytics and visualization at a number of schools as a guest instructor. My work as an instructor was recently highighted in an article by UC Berkeley Extension's Voices Blog:  *Black Data Scientists Are Starting to Write the Story* _Instructor Ysis Tarter brings her knowledge to Extension to create more storytellers_. I also teach workshops and speak at conferences on various topics, from introductory python workshops to speaking on industry standards in synthetic biology. Some of which are listed below."
+    schools_list:
+      - name: Columbia University
+        image: assets/img/schools/columbia.png
+      - name: Emerson College
+        image: assets/img/schools/emerson.jpeg
+      - name: George Washington University
+        image: assets/img/schools/gwu.png
+      - name: Rice University
+        image: assets/img/schools/rice.png
+      - name: University of Miami
+        image: assets/img/schools/miami.png
+      - name: University of Minnesota
+        image: assets/img/schools/university-of-minnesota.png
+      - name: University of Toronto
+        image: assets/img/schools/toronto.png
+      - name: University of California, Irvine
+        image: assets/img/schools/uci.png
+      - name: University of California, Berkeley
+        image: assets/img/schools/ucb.png
+      - name: University of Texas, Austin
+        image: assets/img/schools/utaustin.png
+      - name: University of Oregon
+        image: assets/img/schools/oregon.png
+
+
   team:
     title: "OUR AMAZING TEAM"
     text: "Lorem ipsum dolor sit amet consectetur."
