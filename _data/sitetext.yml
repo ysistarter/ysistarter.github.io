@@ -95,6 +95,7 @@ en: &DEFAULT_EN
   schools:
     section: schools
     title: "Teaching Experience"
+    buttonlink: "#schools"
     text: "I have been teaching higher education since 2018. My first role was as an instructor at UC Berkeley. Since then, I've had the honor of teaching data analytics and visualization at a number of schools as a guest instructor. My work as an instructor was recently highighted in an article by UC Berkeley Extension's Voices Blog:  *Black Data Scientists Are Starting to Write the Story* _Instructor Ysis Tarter brings her knowledge to Extension to create more storytellers_. I also teach workshops and speak at conferences on various topics, from introductory python workshops to speaking on industry standards in synthetic biology. Some of which are listed below."
     schools_list:
       - name: Columbia University
