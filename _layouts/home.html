@@ -1,14 +1,12 @@
 ---
 layout: default
 ---
+{% include navheader.html %}
 
-<div class="home">
-
-    <div id="main" class="call-out"
-         style="background-image: url('{{ site.header_feature_image | relative_url }}')">
-        <h1> {{ site.header_text | default: "Change <code>header_text</code> in <code>_config.yml</code>"}} </h1>
-    </div>
-
-    {% include blog/blog.html %}
-
-</div>
+{% include services.html %}
+{% include portfolio_grid.html %}
+{% include about.html %}
+{% include timeline.html %}
+{% include team.html %}
+{% include clients.html %}
+{% include contact.html %}
