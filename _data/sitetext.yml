@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to my website!
-    text: Ysis Tarter
+    title: ""
+    text: ""
     button: More About Me
     buttonlink: "#services"
 
