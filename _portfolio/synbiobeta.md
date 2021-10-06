@@ -11,14 +11,7 @@ image: assets/img/portfolio/synbiobeta_speaker.png
 alt: image alt text
 
 ---
-Speaker
-<!-- Use this area to describe your project. **Markdown** supported.
+_Speaker_
 
-optional info list (delete if not using):
 
-{:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
-
- -->
+https://2019.synbiobeta.com/wp-content/uploads/2019/09/SBB19_Schedule_Overview_v7.pdf
