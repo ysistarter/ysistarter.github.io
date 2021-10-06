@@ -21,7 +21,7 @@ en: &DEFAULT_EN
     text: "I volunteer with the following organizations"
     section: services
     list:
-      - title: "[Black Girls Code](https://www.blackgirlscode.com/chapter/bayarea/) (Bay Area Chapter)"
+      - title: "[Black Girls Code (Bay Area Chapter)](https://www.blackgirlscode.com/chapter/bayarea/)"
         desc: "Curriculum Review Board; Co-Tech Lead for Bay Area CORE Chapter"
         icon: fas fa-laptop-code #find more at https://fontawesome.com/icons
       - title: "[Girls Teaching Girls to Code (Stanford Chapter)](https://125.stanford.edu/girls-teaching-girls-code/)"
@@ -59,39 +59,39 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Article: [Black Data Scientists Are Starting to Write the Story: Instructor Ysis Tarter brings her knowledge to Extension to create more storytellers](https://voices.berkeley.edu/technology-and-information-management/black-data-scientists-are-starting-write-story)"
-        year: "2020 \n UC Berkeley Extension"
+      - title: "Article: Black Data Scientists Are Starting to Write the Story: Instructor Ysis Tarter brings her knowledge to Extension to create more storytellers"
+        year: "2020 - UC Berkeley Extension"
         desc: "[Featured in article Highlighting my work teaching data science](https://voices.berkeley.edu/technology-and-information-management/black-data-scientists-are-starting-write-story)"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "[Publication: Synthetic Biology Open Language (SBOL) Version 2.3](https://pubmed.ncbi.nlm.nih.gov/31199770/)"
-        year: "2019 \n Journal of Integrative Bioinformatics"
-        desc: "Co-author in design specification for SBOL"
+      - title: "_Publication_: Synthetic Biology Open Language (SBOL) Version 2.3]"
+        year: "2019 - Journal of Integrative Bioinformatics"
+        desc: "[Co-author in design specification for SBOL](https://pubmed.ncbi.nlm.nih.gov/31199770/)"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Thesis: Genetic Expression Profiles Using a Lineage Maturation Index"
-        year: "2015 \n Stanford University"
+        year: "2015 - Stanford University"
         desc: "Developed novel computational way to characterize differentiation of the breast cancer lineage and identified existing drugs for potentialre-targeting of therapeutic treatments"
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Research: Predicting driver performance from wearable devices"
-        year: "2014 \n Ford Motors"
-        desc: "developed proof of concept for assessing driver state and predicting driver performance from wearable devices; detected,"
+        year: "2014 - Ford Motors (Ford Silicon Valley Labs)"
+        desc: "developed proof of concept for assessing driver state and predicting driver performance from wearable devices"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "[Publication: On the Technology Prospects and Investment Opportunities for Scalable Neuroscience](https://www.researchgate.net/publication/253239355_On_the_Technology_Prospects_and_Investment_Opportunities_for_Scalable_Neuroscience)"
-        year: "2013 \n Google"
-        desc: "Co-author in paper with GoogleX"
+      - title: "Publication: On the Technology Prospects and Investment Opportunities for Scalable Neuroscience"
+        year: "2013 - Google"
+        desc: "[Co-author in paper with Google Research](https://www.researchgate.net/publication/253239355_On_the_Technology_Prospects_and_Investment_Opportunities_for_Scalable_Neuroscience)"
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Presentation: Using Nonnlinear Gradients for Fasy Spatial Encoding"
-        year: "2012 \n Yale Medical School"
-        desc: "Optimized voxel parameters (gradients, echoes, and coils) in O-Space (magnetic resonance) imaging \n Poster session at Yale Medical School; intern at YMS in MRI research for PI [Todd Constable](https://yale.academia.edu/ToddConstable/CurriculumVitae)"
+        year: "2012 - Yale Medical School"
+        desc: "Optimized voxel parameters (gradients, echoes, and coils) in O-Space (magnetic resonance) imaging; intern in MRI research for PI [Todd Constable](https://yale.academia.edu/ToddConstable/CurriculumVitae)"
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Presentation: Mapping Protein Interactions through Barcode Fusion Genetics"
-        year: "2010 \n Harvard Medical School / Dana-Farber Cancer Institute"
-        desc: "Assisted in the development of barcode fusion genetics, a technique to more efficiently map protein-protein interactions \n Presentation for internship at Data-Farber Cancer Institute / Harvard Medical School"
+        year: "2010 - Harvard Medical School / Dana-Farber Cancer Institute"
+        desc: "Assisted in the development of barcode fusion genetics, a technique to more efficiently map protein-protein interactions (used widely in industry today!)"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
