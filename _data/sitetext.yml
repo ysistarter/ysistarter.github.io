@@ -106,10 +106,12 @@ en: &DEFAULT_EN
         image: assets/img/schools/gwu.png
       - name: Rice University
         image: assets/img/schools/rice.png
+      - name: Stanford University
+        image: assets/img/schools/stanford.png
       - name: University of Miami
         image: assets/img/schools/miami.png
       - name: University of Minnesota
-        image: assets/img/schools/university-of-minnesota.png
+        image: assets/img/schools/umin.png
       - name: University of Toronto
         image: assets/img/schools/toronto.png
       - name: University of California, Irvine
