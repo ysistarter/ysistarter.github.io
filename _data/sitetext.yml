@@ -17,19 +17,19 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: "Affiliations"
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "[Black Girls Code](https://www.blackgirlscode.com/chapter/bayarea/)"
+        desc: "Co-Tech Lead for Bay Area CORE Chapter; Curriculum Review Board"
+        icon: fas fa-laptop-code #find more at https://fontawesome.com/icons
+      - title: "[Girls Teaching Girls to Code (Stanford Chapter)](https://125.stanford.edu/girls-teaching-girls-code/)"
+        desc: "Community Outreach Board"
+        icon: fas fa-code
+      - title: "[Synthetic Biology Online Language(SBOL)](https://sbolstandard.org/)"
+        desc: "Industrial Advisory Board"
+        icon: far fa-file-code
 
   portfolio:
     title: "Highlights"
@@ -126,7 +126,8 @@ en: &DEFAULT_EN
     section: schools
     title: "Teaching Experience"
     buttonlink: "#schools"
-    text: "I have been teaching higher education since 2018. My first role was as an instructor at UC Berkeley. Since then, I've had the honor of teaching data analytics and visualization at a number of schools as a guest instructor. My work as an instructor was recently highighted in an article by UC Berkeley Extension's Voices Blog:  *Black Data Scientists Are Starting to Write the Story* _Instructor Ysis Tarter brings her knowledge to Extension to create more storytellers_. I also teach workshops and speak at conferences on various topics, from introductory python workshops to speaking on industry standards in synthetic biology. Some of which are listed below."
+    text: "I have been teaching higher education since 2018. My first role was as an instructor at UC Berkeley. Since then, I've had the honor of teaching data analytics and visualization at a number of schools as a guest instructor. My work as an instructor was recently highighted in an article by UC Berkeley Extension's Voices Blog:  [*Black Data Scientists Are Starting to Write the Story* _Instructor Ysis Tarter brings her knowledge to Extension to create more storytellers_](https://voices.berkeley.edu/technology-and-information-management/black-data-scientists-are-starting-write-story). I also teach workshops and speak at conferences on various topics, from introductory python workshops to speaking on industry standards in synthetic biology. Some of which are listed below."
+    subtext: "_2018-2020_: Data Analytics and Visualization Instructor at UC Berkeley Extension"
     schools_list:
       - name: Columbia University
         image: assets/img/schools/columbia.png

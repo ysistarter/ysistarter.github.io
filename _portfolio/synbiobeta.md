@@ -11,7 +11,7 @@ image: assets/img/portfolio/synbiobeta_speaker.png
 alt: image alt text
 
 ---
-_Speaker_
+_Conference Speaker_
 
 
 https://2019.synbiobeta.com/wp-content/uploads/2019/09/SBB19_Schedule_Overview_v7.pdf
