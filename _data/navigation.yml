@@ -13,21 +13,18 @@ en: &DEFAULT_EN
   nav:
     - title: "About"
       section: about
+    - title: "Events"
+      section: portfolio
+    - title: "Teaching"
+      section: schools
     - title: "Organizations"
       section: services
-    - title: "Highlights"
-      section: portfolio
-
-    - title: "Timeline"
+    - title: "Projects"
       section: timeline
-    - title: "Team"
-      section: team
-    - title: Teaching
-      section: schools
+    - title: "LinkedIn"
+      url: https://www.linkedin.com/in/ysistarter/
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
