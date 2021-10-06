@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: SynBioBeta 2019
+  title: SynBioBeta Conference
   subtitle: "Standards In The Industry"
   thumbnail: assets/img/portfolio/synbiobeta_flyer.png
   

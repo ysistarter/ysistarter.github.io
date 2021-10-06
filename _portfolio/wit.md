@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Women Impact Tech 2019
+  title: Women Impact Tech Conference
   subtitle: "Developing Strategies for Making an Impact"
   thumbnail: assets/img/portfolio/wit_logo.jpeg
   

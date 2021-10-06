@@ -18,16 +18,16 @@ en: &DEFAULT_EN
 
   services:
     title: "Affiliations"
-    text: "Lorem ipsum"
+    text: "volunteer organizations"
     section: services
     list:
-      - title: "[Black Girls Code](https://www.blackgirlscode.com/chapter/bayarea/)"
-        desc: "Co-Tech Lead for Bay Area CORE Chapter; Curriculum Review Board"
+      - title: "[Black Girls Code](https://www.blackgirlscode.com/chapter/bayarea/) (Bay Area Chapter)"
+        desc: "Curriculum Review Board; Co-Tech Lead for Bay Area CORE Chapter"
         icon: fas fa-laptop-code #find more at https://fontawesome.com/icons
       - title: "[Girls Teaching Girls to Code (Stanford Chapter)](https://125.stanford.edu/girls-teaching-girls-code/)"
         desc: "Community Outreach Board"
         icon: fas fa-code
-      - title: "[Synthetic Biology Online Language(SBOL)](https://sbolstandard.org/)"
+      - title: "[Synthetic Biology Online Language (SBOL)](https://sbolstandard.org/)"
         desc: "Industrial Advisory Board"
         icon: far fa-file-code
 
@@ -52,56 +52,56 @@ en: &DEFAULT_EN
         desc: "magna cum laude"
         icon: assets/img/schools/groton.png
 
-
-  highlights:
-    title: "Highlights"
-    text: "I also teach workshops and speak at conferences on various topics, from introductory python workshops to speaking on industry standards in synthetic biology. Some of which are listed below."
-    section: highlights
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-
-
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "Featured Projects and Presentations"
+    text: "I've been working in synthetic biology and coding for over a decade, with experience in molecular biology, neuroscience, and IOT research. These are a subset of my favorite projects."
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Article: [Black Data Scientists Are Starting to Write the Story: Instructor Ysis Tarter brings her knowledge to Extension to create more storytellers](https://voices.berkeley.edu/technology-and-information-management/black-data-scientists-are-starting-write-story)"
+        year: "2020 \n UC Berkeley Extension"
+        desc: "[Featured in article Highlighting my work teaching data science](https://voices.berkeley.edu/technology-and-information-management/black-data-scientists-are-starting-write-story)"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "[Publication: Synthetic Biology Open Language (SBOL) Version 2.3](https://pubmed.ncbi.nlm.nih.gov/31199770/)"
+        year: "2019 \n Journal of Integrative Bioinformatics"
+        desc: "Co-author in design specification for SBOL"
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "Thesis: Genetic Expression Profiles Using a Lineage Maturation Index"
+        year: "2015 \n Stanford University"
+        desc: "Developed novel computational way to characterize differentiation of the breast cancer lineage and identified existing drugs for potentialre-targeting of therapeutic treatments"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Research: Predicting driver performance from wearable devices"
+        year: "2014 \n Ford Motors"
+        desc: "developed proof of concept for assessing driver state and predicting driver performance from wearable devices; detected,"
+        image: assets/img/timeline/2.jpg
+        alt:
+      - title: "[Publication: On the Technology Prospects and Investment Opportunities for Scalable Neuroscience](https://www.researchgate.net/publication/253239355_On_the_Technology_Prospects_and_Investment_Opportunities_for_Scalable_Neuroscience)"
+        year: "2013 \n Google"
+        desc: "Co-author in paper with GoogleX"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Presentation: Using Nonnlinear Gradients for Fasy Spatial Encoding"
+        year: "2012 \n Yale Medical School"
+        desc: "Optimized voxel parameters (gradients, echoes, and coils) in O-Space (magnetic resonance) imaging \n Poster session at Yale Medical School; intern at YMS in MRI research for PI [Todd Constable](https://yale.academia.edu/ToddConstable/CurriculumVitae)"
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+      - title: "Presentation: Mapping Protein Interactions through Barcode Fusion Genetics"
+        year: "2010 \n Harvard Medical School / Dana-Farber Cancer Institute"
+        desc: "Assisted in the development of barcode fusion genetics, a technique to more efficiently map protein-protein interactions \n Presentation for internship at Data-Farber Cancer Institute / Harvard Medical School"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Be Part <br> of My <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "About Me"
+    text: "Background and Interests"
+    body: "I'm an innovator at the intersections of synthetic biology, data science, biomedical and software engineering. I studied Computer Science (biocomputation concentration) at Stanford University, and am finishing my master's in Applied Biomedical Engineering at Johns Hopkins University. I have a few [publications](https://www.researchgate.net/profile/Ysis-Tarter) and [articles written about me](https://voices.berkeley.edu/technology-and-information-management/black-data-scientists-are-starting-write-story)."
     section: about
 
   clients:
