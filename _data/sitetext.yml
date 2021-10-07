@@ -59,37 +59,37 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Article: Black Data Scientists Are Starting to Write the Story: Instructor Ysis Tarter brings her knowledge to Extension to create more storytellers"
+      - title: "[Article] Black Data Scientists Are Starting to Write the Story: Instructor Ysis Tarter brings her knowledge to Extension to create more storytellers"
         year: "2020"
         desc: "[I was featured in article highlighting my work teaching data science](https://voices.berkeley.edu/technology-and-information-management/black-data-scientists-are-starting-write-story)"
         image: assets/img/schools/ucb.jpeg
         alt:
-      - title: "Publication: Synthetic Biology Open Language (SBOL) Version 2.3]"
+      - title: "[Publication] Synthetic Biology Open Language (SBOL) Version 2.3"
         year: "2019"
         desc: "[I was a co-author in the design specification for SBOL 2.3.](https://pubmed.ncbi.nlm.nih.gov/31199770/)"
         image: assets/img/schools/ib_journal.jpeg
         alt:
-      - title: "Thesis: Genetic Expression Profiles Using a Lineage Maturation Index"
+      - title: "[Thesis] Genetic Expression Profiles Using a Lineage Maturation Index"
         year: "2015"
         desc: "I worked on developing novel computational way to characterize differentiation of the breast cancer lineage and identified existing drugs for potentialre-targeting of therapeutic treatments"
         image: assets/img/schools/stanford.png
         alt:
-      - title: "Research: Predicting driver performance from wearable devices"
+      - title: "[Research Report] Predicting driver performance from wearable devices"
         year: "2014"
         desc: "I delivered a proof of concept for assessing driver state and predicting driver performance from wearable devices"
         image: assets/img/schools/ford_silicon_valley.jpeg
         alt:
-      - title: "Publication: On the Technology Prospects and Investment Opportunities for Scalable Neuroscience"
+      - title: "[Publication] On the Technology Prospects and Investment Opportunities for Scalable Neuroscience"
         year: "2013"
         desc: "[I was co-author in paper with Google Research; ](https://www.researchgate.net/publication/253239355_On_the_Technology_Prospects_and_Investment_Opportunities_for_Scalable_Neuroscience)."
         image: assets/img/schools.png
         alt: image alt text
-      - title: "Presentation: Using Nonnlinear Gradients for Fasy Spatial Encoding"
+      - title: "[Presentation] Using Nonnlinear Gradients for Fasy Spatial Encoding"
         year: "2012"
         desc: "I researched optimized voxel parameters (gradients, echoes, and coils) in O-Space (magnetic resonance) imaging; intern in MRI research for PI [Todd Constable](https://yale.academia.edu/ToddConstable/CurriculumVitae)"
         image: assets/img/schools/yms_2.jpeg
         alt: image alt text
-      - title: "Presentation: Mapping Protein Interactions through Barcode Fusion Genetics"
+      - title: "[Presentation] Mapping Protein Interactions through Barcode Fusion Genetics"
         year: "2010"
         desc: "Assisted in the development of barcode fusion genetics, a technique to more efficiently map protein-protein interactions (used widely in industry today!)"
         image: assets/img/timeline/dana_hms.png
