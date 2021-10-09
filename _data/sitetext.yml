@@ -155,42 +155,34 @@ en: &DEFAULT_EN
         image: assets/img/schools/oregon.png
 
 
-  # team:
-  #   title: "OUR AMAZING TEAM"
-  #   text: "Lorem ipsum dolor sit amet consectetur."
-  #   subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-  #   section: team
-  #   people:
-  #     - name: "Kay Garland"
-  #       role: "Lead Designer"
-  #       image: assets/img/team/500x500.jpg
-  #       social:
-  #         - url: https://twitter.com
-  #           icon: fab fa-twitter
-  #         - url: https://facebook.com
-  #           icon: fab fa-facebook-f
-  #         - url: https://linkedin.com
-  #           icon: fab fa-linkedin-in
-  #     - name: "Larry Parker"
-  #       role: "Lead Marketer"
-  #       image: assets/img/team/2.jpg
-  #       social:
-  #         - url: https://twitter.com
-  #           icon: fab fa-twitter
-  #         - url: https://facebook.com
-  #           icon: fab fa-facebook-f
-  #         - url: https://linkedin.com
-  #           icon: fab fa-linkedin-in
-  #     - name: "Diana Perterson"
-  #       role: "Lead Developer"
-  #       image: assets/img/team/500x500.jpg
-  #       social:
-  #         - url: https://twitter.com
-  #           icon: fab fa-twitter
-  #         - url: https://facebook.com
-  #           icon: fab fa-facebook-f
-  #         - url: https://linkedin.com
-  #           icon: fab fa-linkedin-in
+  team:
+    title: "Organizations"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    section: team
+    people:
+      - name: "Synthetic Biology Online Language (SBOL)"
+        role: "Industrial Advisory Board"
+        image: assets/img/team/
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+      - name: "Black Girls Code"
+        role: "Curriculum Review Board; Co-Tech Lead for Bay Area CORE Chapter"
+        image: assets/img/team/bgc.png
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+      - name: "Girls Teaching Girls to Code"
+        role: "Board Member, Community Outreach"
+        image: assets/img/team/gtgtc.png
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
 
   contact:
     title: "Contact Me"

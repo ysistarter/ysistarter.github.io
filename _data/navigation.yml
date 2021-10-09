@@ -18,7 +18,7 @@ en: &DEFAULT_EN
     - title: "Teaching"
       section: schools
     - title: "Organizations"
-      section: services
+      section: team
     - title: "Projects"
       section: timeline
     - title: "LinkedIn"
