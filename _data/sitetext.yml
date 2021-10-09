@@ -16,26 +16,12 @@ en: &DEFAULT_EN
     button: More About Me
     buttonlink: "#services"
 
-  services:
-    title: "Affiliations"
-    text: "I volunteer with the following organizations"
-    section: services
-    list:
-      - title: "[Black Girls Code (Bay Area Chapter)](https://www.blackgirlscode.com/chapter/bayarea/)"
-        desc: "Curriculum Review Board; Co-Tech Lead for Bay Area CORE Chapter"
-        icon: fas fa-laptop-code #find more at https://fontawesome.com/icons
-      - title: "[Girls Teaching Girls to Code (Stanford Chapter)](https://125.stanford.edu/girls-teaching-girls-code/)"
-        desc: "Community Outreach Board"
-        icon: fas fa-code
-      - title: "[Synthetic Biology Online Language (SBOL)](https://sbolstandard.org/)"
-        desc: "Industrial Advisory Board"
-        icon: far fa-file-code
 
-  portfolio:
-    title: "Highlights"
-    text: "events and featured articles"
-    section: portfolio
-    closebutton: "Close Highlight"
+  about:
+    title: "About Me"
+    text: "Background and Interests"
+    body: "I'm an innovator at the intersections of synthetic biology, data science, biomedical and software engineering. I studied Computer Science (biocomputation concentration) at Stanford University, and am finishing my master's in Applied Biomedical Engineering at Johns Hopkins University. I have a few [publications](https://www.researchgate.net/profile/Ysis-Tarter) and [articles written about me](https://voices.berkeley.edu/technology-and-information-management/black-data-scientists-are-starting-write-story)."
+    section: about
 
   education:
     title: "Education"
@@ -51,6 +37,13 @@ en: &DEFAULT_EN
       - title: "Groton School"
         desc: "magna cum laude"
         icon: assets/img/schools/groton.png
+
+  portfolio:
+    title: "Highlights"
+    text: "events and featured articles"
+    section: portfolio
+    closebutton: "Close Highlight"
+
 
   timeline:
     title: "Featured Projects and Presentations"
@@ -98,29 +91,40 @@ en: &DEFAULT_EN
         # align: right
     end: "Be Part <br> of My <br> Story!"
 
-  about:
-    title: "About Me"
-    text: "Background and Interests"
-    body: "I'm an innovator at the intersections of synthetic biology, data science, biomedical and software engineering. I studied Computer Science (biocomputation concentration) at Stanford University, and am finishing my master's in Applied Biomedical Engineering at Johns Hopkins University. I have a few [publications](https://www.researchgate.net/profile/Ysis-Tarter) and [articles written about me](https://voices.berkeley.edu/technology-and-information-management/black-data-scientists-are-starting-write-story)."
-    section: about
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+  services:
+    title: "Affiliations"
+    text: "I volunteer with the following organizations"
+    section: services
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+      - title: "[Black Girls Code (Bay Area Chapter)](https://www.blackgirlscode.com/chapter/bayarea/)"
+        desc: "Curriculum Review Board; Co-Tech Lead for Bay Area CORE Chapter"
+        icon: assets/img/team/bgc.png #as fa-laptop-code #find more at https://fontawesome.com/icons
+      - title: "[Girls Teaching Girls to Code (Stanford Chapter)](https://125.stanford.edu/girls-teaching-girls-code/)"
+        desc: "Community Outreach Board"
+        icon: assets/img/team/gtgtc.png #fas fa-code
+      - title: "[Synthetic Biology Online Language (SBOL)](https://sbolstandard.org/)"
+        desc: "Industrial Advisory Board"
+        icon: assets/img/team/sbol.png
+
+
+  # clients:
+  #   section: clients
+  #   max-height: 100px
+  #   horizontal-scrolling: "" #"yes/no"
+  #   list:
+  #     - title: "envato"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/envato.jpg
+  #     - title: "designmodo"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/designmodo.jpg
+  #     - title: "themeforest"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/themeforest.jpg
+  #     - title: "Creative Market"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/creative-market.jpg
 
   schools:
     section: schools
@@ -163,7 +167,7 @@ en: &DEFAULT_EN
     people:
       - name: "Synthetic Biology Online Language (SBOL)"
         role: "Industrial Advisory Board"
-        image: assets/img/team/
+        image: assets/img/team/sbol.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
